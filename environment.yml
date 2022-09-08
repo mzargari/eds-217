@@ -1,4 +1,4 @@
-name: eds-217
+# name: eds-217
 channels:
   - conda-forge
   - defaults
